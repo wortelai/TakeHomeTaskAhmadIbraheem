@@ -1,0 +1,4 @@
+#Libraries with version numbers
+
+python version = 3.9.5
+numpy version = 1.21.1
