@@ -1,0 +1,6 @@
+#libraries with their version numbers
+
+numpy version = 1.20.1
+tensorflow version = 2.7.0
+keras version = 1.2.2
+sklearn version = 0.24.1
