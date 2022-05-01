@@ -1,0 +1,5 @@
+# Following versions of libraries were used
+
+torch.__version__ == 1.11.0+cu113
+yaml.__version__ == 6.0
+json.__version__ == 2.0.9

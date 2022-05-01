@@ -1,0 +1,10 @@
+
+
+path: /content/drive/MyDrive/custom_dataset/logos_dataset
+train: images/train  # train images (relative to 'path') 118287 images
+val: images/valid # val images (relative to 'path') 5000 images
+
+
+# Classes
+nc: 2  # number of classes
+names: ['logo', 'new_logo']  # class names
